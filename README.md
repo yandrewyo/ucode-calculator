@@ -9,7 +9,9 @@ Admittedly a confusing UI as a result of using the console. All instructions are
 uicalc.java is a calculator using JOptionPane as a simple UI. Only has scientific calculator.
 
 Can run using terminal / command prompt after downloading
+
 compile:
 javac /filepath/filename.java
+
 run:
 java /filepath/filename.java
